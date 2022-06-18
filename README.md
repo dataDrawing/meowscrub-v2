@@ -1,1 +1,1 @@
-This repository is created solely for archival. Support for self-hosting will not be provided.
+This repository is for the final version of meowscrub-v2, and is created solely for archival. Support for self-hosting will not be provided.
