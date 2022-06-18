@@ -1,1 +1,1 @@
-This repository is created solely for preservation. Support for self-hosting will not be provided.
+This repository is created solely for archival. Support for self-hosting will not be provided.
